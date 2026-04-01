@@ -1,0 +1,12 @@
+# KiCad unnecessary files
+*.kicad_prl
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.dsn
+*.ses
+fp-info-cache
+*-backups/
+
+# OS junk
+.DS_Store
+Thumbs.db
